@@ -5,7 +5,7 @@
 1.2) Composer
 1.3) Gitbash
 2) Запустить gitbash  в папке где будет находиться проект
-3) `composer create-project symfony/skeleton my-project`, где `my-project` - название проекта
+3) `composer create-project symfony/website-skeleton my-project`, где `my-project` - название проекта
     1) При необходимости: Изменить файл `php.ini` (Узнать где находится с помощью команды в консоли `php --ini`)
     2) Найти в файле `curl` и убрать в начале строки `;`
 4) В консоли перейти в папку проекта с помощью команды `cd my-project`
